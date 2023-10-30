@@ -27,7 +27,7 @@ public class Day1{
 
         }
 
-        //method 3
+        //method 3 - best answer
 
         for(int i=0; i<nums.length; i++){
             ans[i] = nums[i];
